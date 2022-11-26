@@ -1,9 +1,10 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
-
+Aakash S
+212221240001
 ### Aim :
-      To pick and place a regular shape using two finger gripper on the conveyor belt 
+To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
+Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
 
@@ -36,7 +37,7 @@ Gripping & drop detection
 Force & position adjustment
 Self-locking
 
-                  ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
+![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
 ### Figure -01 DH gripper with two finger gripper 
 
 #### Specifications
@@ -77,29 +78,15 @@ Installation position: floor, ceiling, walls.
 1. click on dart platfom icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
 2. click on the internet interface 
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
-and click on the connect icon 
-
-3. click on the 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+and click on the connect icon .
 ### output video and screen shots of pick and place 
+### program
+![prog1](https://user-images.githubusercontent.com/75235402/204101958-c715b0bf-194a-4f7a-b7b2-498a333d8c3b.jpg)
+![pro2](https://user-images.githubusercontent.com/75235402/204101971-ed73bfa2-6b2a-4d27-bf0a-fcf2401fc63b.jpg)
 
+![pro3](https://user-images.githubusercontent.com/75235402/204101975-dfa595fe-ad2c-4511-bd8f-8d67b3c55cc7.jpg)
+
+### Robo Action:
 
 
 
@@ -107,7 +94,7 @@ and click on the connect icon
 
 
 ### Results: 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
